@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Rishabh ranjan
-- 👀 I’m interested in / Cybersecurity
-- ethical hacking
+- 👋 Hi, I’m @Rishabh ranjan  
+- 👀 I’m interested in AI / Cybersecurity
+- ethical hacking/clang/csharp/phython
 - forntend devloper
 - 🌱 I’m currently learning cse student
 - 💞️ I’m looking to collaborate on ...
 - google
 - microsoft
 - aws cloud
+- NEVIDA
+- INTEL
+- 
 - 📫 How to reach me ...
 - 
 
